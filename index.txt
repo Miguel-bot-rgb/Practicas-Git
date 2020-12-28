@@ -9,4 +9,4 @@ Contenido
 -Cambios Grupales
 -Repasar Historial
 -Rehacer Commits
--Sincrnizar Cambios
+-Sincronizar Cambios
