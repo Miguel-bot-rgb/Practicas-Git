@@ -2,4 +2,11 @@ Bienvenidos
 
 Practicas de GIT
 
-
+Contenido
+-Configurar Herrmientas
+-Crear Repositorio
+-Efectuar Cambios
+-Cambios Grupales
+-Repasar Historial
+-Rehacer Commits
+-Sincrnizar Cambios
